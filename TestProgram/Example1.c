@@ -5,5 +5,5 @@ int main()
     printf("double test\n");
     print("test again");
     printf("triple test\n");
-    print("trying again again");
+    print("trying again again!");
 }
