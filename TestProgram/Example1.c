@@ -6,4 +6,5 @@ int main()
     print("test again");
     printf("triple test\n");
     print("trying again again!");
+    printf("Final thing\n");
 }
