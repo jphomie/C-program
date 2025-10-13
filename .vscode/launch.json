@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/LLR User/OneDrive - The University of Nottingham/Yr 3 mech/mechatronics/C program/TestProgram",
-      "program": "c:/Users/LLR User/OneDrive - The University of Nottingham/Yr 3 mech/mechatronics/C program/TestProgram/build/Debug/outDebug",
+      "cwd": "c:/Users/LLR User/OneDrive - The University of Nottingham/Year 3 mech/Comp Eng n Mechatronics/C program/TestProgram",
+      "program": "c:/Users/LLR User/OneDrive - The University of Nottingham/Year 3 mech/Comp Eng n Mechatronics/C program/TestProgram/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
