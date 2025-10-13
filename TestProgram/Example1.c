@@ -3,8 +3,8 @@
 int main()
 {
     printf("double test\n");
-    print("test again");
+    printf("test again\n");
     printf("triple test\n");
-    print("trying again again!");
+    printf("trying again again!\n");
     printf("Final thing\n");
 }
